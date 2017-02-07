@@ -1,7 +1,7 @@
 # tooltip
-css only tooltip styles
+css only tooltips using data attributes
 
-[demo](http://docs.commitchange.com/tooltip)
+[demo](http://www.yutakahoulette.com/tooltip)
 
 the styles do not include any browser prefixes. to add them, run `autoprefixer` with `postcss`.
 
@@ -15,11 +15,11 @@ project in relation to other z-indices:
 }
 ```
 
-to install: `npm install --save @commitchange/tooltip`
+to install: `npm install --save data-tooltip`
 
 to use in css-land:
 
-in your style sheet, just add `@import '@commitchange/tooltip` and then run `postcss-import`
+in your style sheet, just add `@import 'data-tooltip` and then run `postcss-import`
 
 to use in markup-land: 
 ```HTML

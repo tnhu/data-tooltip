@@ -1,7 +1,7 @@
 {
   "name": "data-tooltip",
   "version": "0.0.1",
-  "description": "css only tooltips using data attribute",
+  "description": "css only tooltips using data attributes",
   "style": "index.css",
   "scripts": {
     "postcss": "postcss -c postcss.js -w -l"
