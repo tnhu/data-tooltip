@@ -1,7 +1,7 @@
 # tooltip
 css only tooltips using data attributes
 
-[demo](http://www.yutakahoulette.com/tooltip)
+[demo](http://www.yutakahoulette.com/data-tooltip)
 
 the styles do not include any browser prefixes. to add them, run `autoprefixer` with `postcss`.
 
