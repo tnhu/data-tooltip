@@ -1,0 +1,32 @@
+{
+  "name": "data-tooltip",
+  "version": "0.0.1",
+  "description": "css only tooltips using data attribute",
+  "style": "index.css",
+  "scripts": {
+    "postcss": "postcss -c postcss.js -w -l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutakahoulett/data-tooltip.git"
+  },
+  "author": "Yutaka Houlette",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yutakahoulette/data-tooltip/issues"
+  },
+  "homepage": "https://github.com/yutakahoulette/data-tooltip#readme",
+  "keywords": [
+    "tooltip"
+  , "css"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "cssnano": "^3.8.1",
+    "normalize.css": "^5.0.0",
+    "postcss": "^5.2.6",
+    "postcss-cli": "^2.6.0",
+    "postcss-import": "^8.2.0"
+  }
+}
+
