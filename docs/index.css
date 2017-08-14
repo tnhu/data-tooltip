@@ -3,7 +3,7 @@
 
 * {
   box-sizing: border-box;
-  font-family: 'Open sans', sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Helvetica,sans-serif;
 }
 
 [class*=tooltip--]:before, 
@@ -54,7 +54,7 @@ section:nth-of-type(15) {
 }
 
 section div {
-  background: rgba(23, 112, 123, 0.23);
+  background: rgb(236, 236, 230);
   border-radius: 3px;
   width: 100%;
 }
